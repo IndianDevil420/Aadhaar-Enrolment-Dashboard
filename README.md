@@ -53,7 +53,7 @@ End-to-end analytics dashboard for Aadhaar enrolment data with automated data cl
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Bharat-Insight-Lab/Aadhaar-Enrolment-Dashboard.git
    cd aadhaar-enrolment-dashboard
    ```
 
@@ -198,13 +198,6 @@ This project is provided as-is for educational and analytical purposes.
 - [Streamlit Documentation](https://docs.streamlit.io/)
 - [Plotly Python Documentation](https://plotly.com/python/)
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
-
-## 📞 Support
-
-For issues, questions, or suggestions:
-1. Check the debug info in the sidebar
-2. Review the troubleshooting section
-3. Examine your data format against the expected structure
 
 ---
 
